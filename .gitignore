@@ -274,6 +274,6 @@ django_starter_template/media/
 .pytest_cache/
 .ipython/
 .env
-.envs/*
+.envs/.production
 
 .python-version
