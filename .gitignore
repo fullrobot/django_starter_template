@@ -275,3 +275,5 @@ django_starter_template/media/
 .ipython/
 .env
 .envs/*
+
+.python-version
