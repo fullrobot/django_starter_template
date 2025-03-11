@@ -20,7 +20,7 @@ build:
 
 # Target for starting up Docker containers
 up:
-	docker compose -f docker-compose.local.yml -f docker-compose.docs.yml up -d
+	docker compose -f docker-compose.local.yml -f docker-compose.docs.yml up -d --build
 
 # Target for running migrations
 migrate:

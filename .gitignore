@@ -15,7 +15,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -274,6 +273,7 @@ django_starter_template/media/
 .pytest_cache/
 .ipython/
 .env
+.envrc
 .envs/.production
 
 .python-version
